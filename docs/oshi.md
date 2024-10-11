@@ -50,8 +50,8 @@
 
 #### 客户端管理
 
-![客户端管理](../assets/oshi-log.png)
+![客户端管理](../assets/oshi-client.png)
 
 #### 用户管理
 
-![用户管理](../assets/oshi-log.png)
+![用户管理](../assets/oshi-user.png)
